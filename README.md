@@ -1,20 +1,41 @@
-# 👋 Hello, I'm Ansari Ehteesham Aqeel!
+<h1 align="center">Hi there, I'm Ansari Ehteesham Aqeel! 👋</h1>
 
-🎓 **B.Tech Graduate in CSE (AI Specialization)**  
-🤖 **AI Enthusiast** | 💻 **Full Stack Learner** | 🚀 **Future Innovator**
+<p align="center">
+  🚀 AI Enthusiast | 💻 Web Developer | 🎓 B.Tech in CSE (AI)  
+</p>
 
 ---
 
-## 🧠 **AI & Machine Learning Focus**
-🔥 Passionate about transforming data into intelligent solutions:
-- 🤖 Machine/Deep Learning
-- 👁️ Computer Vision
-- 📝 Natural Language Processing (NLP)
-- 📈 Predictive Modeling
+## 🙋‍♂️ About Me
+- 🎓 I am a **B.Tech graduate in Computer Science & Engineering** with a specialization in **Artificial Intelligence**.
+- 🤖 Passionate about **AI, Machine Learning, Deep Learning, Computer Vision, and NLP**.
+- 🌱 Currently **learning and exploring** more about **Web Development** (HTML, CSS, and beyond).
+- 💡 I love **solving problems, building projects, and learning new technologies**.
 
-## 🌐 **Web Development Skills**
-🛠️ Building digital experiences layer by layer:
-```markdown
-- Frontend:  [HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) [CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- Backend:   Currently learning JavaScript/Node.js
-- Tools:     [VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code) [Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+- **AI & Machine Learning:** Python, TensorFlow, PyTorch  
+- **Web Development:** HTML, CSS  
+- **Database:** SQL  
+- **Version Control:** Git, GitHub  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehteesham&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehteesham&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me!
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+⭐️ **Feel free to check out my repositories and contribute!** 🚀
