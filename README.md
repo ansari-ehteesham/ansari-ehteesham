@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D423,100:FF4E50&height=350&section=header&text=Hi,%20there!-nl-I%20am%20Ehteesham&fontSize=70&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hi,%20there!-nl-I%20am%20Ehteesham&fontSize=70&fontColor=FFFFFF" />
 
 
 <p align="center">
