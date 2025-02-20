@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hi,%20there!-nl-I%20am%20Ehteesham&fontSize=70&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone&fontSize=70" style="max-width: 100%;"/>
 
 
 <p align="center">
