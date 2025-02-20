@@ -75,5 +75,5 @@
 
 > "Artificial intelligence is the new electricity." - Andrew Ng
 > <p align='center'>
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150&section=header&text=%22Artificial%20intelligence%20is%20the%20new%20electricity.%22%20-%20Andrew%20Ng&fontSize=20" style="max-width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?section=footer&reversal=True&type=waving&color=gradient&height=100&section=header&text=%22Artificial%20intelligence%20is%20the%20new%20electricity.%22%20-%20Andrew%20Ng&fontSize=20" style="max-width: 100%;"/>
 </p>
