@@ -60,8 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansari-ehteesham&layout=compact&theme=nightowl" alt="Top Languages" />
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🤝 **Let's Connect!**
