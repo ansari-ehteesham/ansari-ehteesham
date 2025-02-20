@@ -2,13 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone&fontSize=70" style="max-width: 100%;"/>
 </p>
 <h1 align="center">I'm Ansari Ehteesham Aqeel! 👋</h1>
-<p align="center">
-  🚀 AI Enthusiast | 💻 Web Developer | 🎓 B.Tech in CSE (AI)  
-</p>
+---
 
 <p align='center'>
   <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGE1cG5ua2gzam9vbG01ZWx0aGFkOHZ2dzFjcnZxMGJwcjVtYWhlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="max-width: 100%"/>
 </p>
+
+---
+
+<p align="center">
+  🚀 AI Enthusiast | 💻 Web Developer | 🎓 B.Tech in CSE (AI)  
+</p>
+
 ---
 
 ## 🙋‍♂️ About Me
