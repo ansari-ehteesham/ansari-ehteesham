@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone&fontSize=70" style="max-width: 100%;"/>
 </p>
 
-
+<h1 align="center">Hi there, I'm Ansari Ehteesham Aqeel! 👋</h1>
 <p align="center">
   🚀 AI Enthusiast | 💻 Web Developer | 🎓 B.Tech in CSE (AI)  
 </p>
@@ -74,3 +74,6 @@
 📖 Reading research papers at coffee shops!
 
 > "Artificial intelligence is the new electricity." - Andrew Ng
+> <p align='center'>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150&section=header&text=%22Artificial%20intelligence%20is%20the%20new%20electricity.%22%20-%20Andrew%20Ng&fontSize=20" style="max-width: 100%;"/>
+</p>
