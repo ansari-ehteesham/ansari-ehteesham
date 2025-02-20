@@ -1,7 +1,7 @@
 <p align='center'>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone&fontSize=70" style="max-width: 100%;"/>
 </p>
-<h1 align="center">Hi there, I'm Ansari Ehteesham Aqeel! 👋</h1>
+<h1 align="center">I'm Ansari Ehteesham Aqeel! 👋</h1>
 <p align="center">
   🚀 AI Enthusiast | 💻 Web Developer | 🎓 B.Tech in CSE (AI)  
 </p>
@@ -63,7 +63,7 @@
 ## 🤝 **Let's Connect!**
 
 <a href="https://www.linkedin.com/in/ansari-ehteesham-aqeel">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="LinkedIn Profile"/>
 </a>
 <a href="mailto:ansari.ehteesham@example.com">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email"/>
