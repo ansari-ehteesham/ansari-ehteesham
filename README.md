@@ -1,7 +1,16 @@
-# 👋 Hello, I'm Ansari Ehteesham Aqeel!
+<h1 align="center">Hi there, I'm Ansari Ehteesham Aqeel! 👋</h1>
 
-🎓 **B.Tech Graduate in Computer Science (AI Specialization)**  
-🤖 **AI Enthusiast** | 💻 **Web Developer** | 🚀 **Tech Explorer**
+<p align="center">
+  🚀 AI Enthusiast | 💻 Web Developer | 🎓 B.Tech in CSE (AI)  
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+- 🎓 I am a **B.Tech graduate in Computer Science & Engineering** with a specialization in **Artificial Intelligence**.
+- 🤖 Passionate about **AI, Machine Learning, Deep Learning, Computer Vision, and NLP**.
+- 🌱 Currently **learning and exploring** more about **Web Development** (HTML, CSS, and beyond).
+- 💡 I love **solving problems, building projects, and learning new technologies**.
 
 ---
 
