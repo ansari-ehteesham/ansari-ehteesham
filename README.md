@@ -60,9 +60,8 @@
 
 ## 🤝 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansari_Ehteesham_Aqeel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-ehteeshamansari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansari_Ehteesham_Aqeel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ansari-ehteesham-aqeel)
+[![Gmail](https://img.shields.io/badge/Gmail-ehteeshamansari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an.ehteesham@gmail.com)
 
 ---
 
