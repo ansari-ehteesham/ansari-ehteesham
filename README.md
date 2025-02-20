@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D423,100:FF4E50&height=300&section=header&text=Hi,%20there!%20I%20am%20Ehteesham&fontSize=90&fontColor=FFFFFF&textBg=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D423,100:FF4E50&height=300&section=header&text=Hi,%20there!%20I%20am%20Ehteesham&fontSize=90&fontColor=FFFFFF" />
 
 <p align="center">
   🚀 AI Enthusiast | 💻 Web Developer | 🎓 B.Tech in CSE (AI)  
