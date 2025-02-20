@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-<h1 align="center">Hi there, I'm Ansari Ehteesham Aqeel! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ansari%20Ehteesham%20Aqeel&fontSize=90" align = 'center'/>
 
 <p align="center">
   🚀 AI Enthusiast | 💻 Web Developer | 🎓 B.Tech in CSE (AI)  
