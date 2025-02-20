@@ -73,7 +73,6 @@
 🍿 Binge-watching tech documentaries  
 📖 Reading research papers at coffee shops!
 
-> "Artificial intelligence is the new electricity." - Andrew Ng
-> <p align='center'>
-<img src="https://capsule-render.vercel.app/api?section=footer&reversal=True&type=waving&color=gradient&height=100&section=header&text=%22Artificial%20intelligence%20is%20the%20new%20electricity.%22%20-%20Andrew%20Ng&fontSize=20" style="max-width: 100%;"/>
+<p align='center'>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=%22Artificial%20intelligence%20is%20the%20new%20electricity.%22%20-%20Andrew%20Ng&fontSize=20" style="max-width: 100%;"/>
 </p>
