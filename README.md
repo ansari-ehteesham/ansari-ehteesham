@@ -55,9 +55,11 @@
 
 ## 📊 **GitHub Stats**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansari-ehteesham&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansari-ehteesham&show_icons=true&theme=radical" alt="My GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansari-ehteesham&layout=compact&theme=nightowl" alt="Top Languages" style="width: 48%;" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansari-ehteesham&layout=compact&theme=nightowl)
 
 ---
 
