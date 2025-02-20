@@ -62,8 +62,9 @@
 
 ## 🤝 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansari_Ehteesham_Aqeel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ansari-ehteesham-aqeel)
-[![Gmail](https://img.shields.io/badge/Gmail-ehteeshamansari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an.ehteesham@gmail.com)
+<a href="www.linkedin.com/in/ansari-ehteesham-aqeel">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 ---
 
