@@ -43,11 +43,11 @@
 
 ## 📊 **GitHub Stats**
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansari_ehteesham&theme=dark)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansari_ehteesham&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansari_ehteesham&layout=compact&theme=nightowl)
 
 ---
 
