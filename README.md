@@ -62,9 +62,13 @@
 
 ## 🤝 **Let's Connect!**
 
-<a href="www.linkedin.com/in/ansari-ehteesham-aqeel">
+<a href="https://www.linkedin.com/in/ansari-ehteesham-aqeel">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+<a href="mailto:ansari.ehteesham@example.com">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email"/>
+</a>
+
 
 ---
 
